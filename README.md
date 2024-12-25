@@ -1,6 +1,6 @@
 # Data-Analysis
 
-This repository showcases my journey into the world of data analysis. As a professional at Ericsson (since March 2024), I'm passionate about uncovering insights from data and aspiring to a career in this field. This repository contains projects demonstrating proficiency in:
+This repository showcases my journey into the world of data analysis. I'm passionate about uncovering insights from data and aspiring to a career in this field. This repository contains projects demonstrating proficiency in:
 
 Exploratory Data Analysis (EDA) using Python with Pandas and other relevant libraries.
 Data visualization and dashboard creation using Power BI.

@@ -40,6 +40,11 @@ The data used for this dashboard is synthetic/sample transaction data. The datas
 *   CustomerAccountNumber
 *   MerchantAccountNumber
 
+## Dash Board
+
+![Image](https://github.com/user-attachments/assets/87069f47-946e-4b40-b020-b4c19e49370a)
+
+![Image](https://github.com/user-attachments/assets/82ccfd1a-4aa0-4ed8-b3ae-da7fe7e27731)
 
 ## Dashboard Features
 
@@ -58,11 +63,6 @@ The Power BI dashboard includes the following visualizations:
 *   Power Query
 *   GitHub
 
-## Dash Board
-
-![Image](https://github.com/user-attachments/assets/87069f47-946e-4b40-b020-b4c19e49370a)
-
-![Image](https://github.com/user-attachments/assets/82ccfd1a-4aa0-4ed8-b3ae-da7fe7e27731)
 
 Thanks For visiting :)
 
